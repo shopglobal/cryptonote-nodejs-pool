@@ -12,7 +12,7 @@
         "base58-native": "*",
         "bignum": "*",
         "cli-color": "*",
-        "cryptoforknote-util": "git://github.com/electronero/node-cryptonote-util.git#xmr-Nan-2.0",
+        "cryptonote-util": "git://github.com/electronero/node-cryptonote-util.git#xmr-Nan-2.0",
         "cryptonight-hashing": "git://github.com/electronero/node-cryptonight-hashing.git",
         "dateformat": "*",
         "mailgun.js": "*",
