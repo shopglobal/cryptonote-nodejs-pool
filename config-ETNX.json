@@ -183,7 +183,7 @@
             "payment": "A payment of %AMOUNT% has been sent to %ADDRESS% wallet."
         },
         "telegramMessage": {
-            "workerConnected": "Your worker _%WORKER_NAME%_ for address _%MINER%_ is now connected from ip _%IP%_.",
+            "workerConnected": "Your worker _%WORKER_NAME%_ for address _%MINER%_ is now connected since %LAST_HASH%.",
             "workerTimeout": "Your worker _%WORKER_NAME%_ for address _%MINER%_ has stopped submitting hashes on _%LAST_HASH%_.",
             "workerBanned": "Your worker _%WORKER_NAME%_ for address _%MINER%_ has been banned.",
             "blockFound": "*Block found at height* _%HEIGHT%_ *by miner* _%MINER%_*! Waiting maturity.*",
