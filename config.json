@@ -230,7 +230,8 @@
         "botCommands": {
             "stats": "/stats",
             "enable": "/enable",
-            "disable": "/disable"
+            "disable": "/disable",
+            "report": "/report"
         }
     },
     
